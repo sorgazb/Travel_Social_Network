@@ -1,6 +1,6 @@
 # Travel_Social_Network
 <h1>Definición del Proyecto</h1>
-Proyecto desarrollado en C++, implementando POO, LPI, lectura de ficheros y demás tecnologias.<br>
+Proyecto desarrollado en C++, implementando POO, LPI, Cola, lectura de ficheros y demás tecnologias.<br>
 Diferentes algoritmos capaces de realizar diferentes opciones como:<br>
 - Insertar una nuevo conductor al sistema.<br>
 - Valorar a un conductor.<br>
